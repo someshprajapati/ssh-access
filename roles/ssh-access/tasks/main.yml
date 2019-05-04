@@ -1,0 +1,10 @@
+---
+
+- name: "SSH access | Add user on remote machine"
+  include: grant.yml
+  when: operation == "grant"
+ 
+- name: "SSH access | Remove user on remote machine"
+  include: revoke.yml
+  when: operation == "revoke"
+

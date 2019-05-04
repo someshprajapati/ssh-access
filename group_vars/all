@@ -1,0 +1,6 @@
+---
+
+user_name: dev1
+group_name: developers
+user_pass: $6$random_salt$zl.Ziyu.VDOkSJsGF7z5MBymYVVXiz1Nl52n81QbMNxhqx5spc1M4I6HV2.P8ZdeOkFWblZ5d5liKQCyJintZ0
+user_desc: "Somesh Developer"
